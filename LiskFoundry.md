@@ -1,4 +1,4 @@
----
+
 ### **Step-by-Step Guide to Deploying with Foundry on Lisk Sepolia**
 
 #### **1. Install Foundry**
@@ -10,8 +10,7 @@
    ```bash
    foundryup
    ```
-
----
+   ---
 
 #### **2. Set Up the Project**
 1. Create a directory for your project and navigate to it:
@@ -23,8 +22,6 @@
    ```bash
    forge init
    ```
-
----
 
 #### **3. Update the Script File**
 1. Open the `script/Counter.s.sol` file or create a new one.
