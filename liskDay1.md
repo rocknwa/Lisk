@@ -67,7 +67,7 @@ Key features of Optimistic Rollups include:
 In summary, Optimistic Rollups are tightly integrated into Ethereum to enhance its scalability.
 Optimistic rollup operators bundle multiple off-chain transactions together in large batches before submitting to Ethereum. This approach enables spreading fixed costs across multiple transactions in each batch, reducing fees for end-users. Optimistic rollups also use compression techniques to reduce the amount of data posted on Ethereum.
 
-Lisk is a blockchain application platform that enables developers to build decentralized applications (dApps) using JavaScript, focusing on accessibility and scalability. Its architecture allows for the creation of custom, modular sidechains, which are independent blockchains connected to the main Lisk network. This design ensures scalability and application-specific flexibility while maintaining interoperability.
+Lisk was a blockchain application platform that enables developers to build decentralized applications (dApps) using JavaScript, focusing on accessibility and scalability. Its architecture allows for the creation of custom, modular sidechains, which are independent blockchains connected to the main Lisk network. This design ensures scalability and application-specific flexibility while maintaining interoperability.
 
 Recently, Lisk transitioned to a Layer 2 model integrated with the Ethereum ecosystem via the Optimism Superchain. This move enhances scalability, supports real-world asset applications, and improves blockchain accessibility for emerging markets.
 
