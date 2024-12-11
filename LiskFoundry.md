@@ -1,5 +1,4 @@
 ---
-
 ### **Step-by-Step Guide to Deploying with Foundry on Lisk Sepolia**
 
 #### **1. Install Foundry**
